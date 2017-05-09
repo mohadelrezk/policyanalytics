@@ -1,0 +1,10 @@
+bin/
+target/
+*.log
+ontologies/
+src/main/resources/
+*.*~
+
+
+
+
